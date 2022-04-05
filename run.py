@@ -79,7 +79,7 @@ class CategoryAssigner:
 
 
 class StatementData:
-    """Holds the loads, parses and holds the data from the bank statement."""
+    """Loads, parses and holds the data from the bank statement."""
 
     def __init__(self, statement_filepath, categories_filepath):
         """Load and parse the data.
