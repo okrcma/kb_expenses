@@ -1,0 +1,23 @@
+"MojeBanka, export transakèní historie";
+"Datum vytvoøení souboru";"01.04.2022";
+
+"Èíslo úètu";"107-1234567890 CZK";
+"IBAN";"CZ1234567890123456789012";
+"Název úètu";"HONZA NOVÁK";
+"Vlastní název úètu";"HONZA NOVÁK";
+"Výpis za období";"01.03.2022";
+;"31.03.2022";
+"Èíslo výpisu";"1";
+"Pøedchozí výpis ze dne";"01.03.2022";
+"Poèet položek";"5";
+"Poèáteèní zùstatek";"10000,00";
+"Celkem odepsáno (-)";"1267,91";
+"Celkem pøipsáno (+)";"0,00";
+"Koneèný zùstatek";"8732,09";
+
+"Datum splatnosti";"Datum odepsání z jiné banky";"Protiúèet a kód banky";"Název protiúètu";"Èástka";"Originální èástka";"Originální mìna";"Kurz";"VS";"KS";"SS";"Identifikace transakce";"Systémový popis";"Popis pøíkazce";"Popis pro pøíjemce";"AV pole 1";"AV pole 2";"AV pole 3";"AV pole 4";
+"05.03.2022";;"";"PLATEBNÍ KARTY VISA CZK";"-151,87";"";"";"";"1234567";"1234";"123456789";"123-45678901 2345678901234";"Nákup na internetu ";"12345678 PLATEBNÍ KARTY";;"PAYPAL *SPOTIFY                    ";"1234567890                SE   12 ";"1234 56** **** 7890        VISA    ";"05.03.2022                 5,99 EUR";
+"04.03.2022";;"";"PLATEBNÍ KARTY VISA CZK";"-45,00";"";"";"";"1234567";"1234";"123456789";"123-45678901 2345678901234";"Nákup bezkontaktní kartou";"12345678 PLATEBNÍ KARTY";;"ALBERT VAM DEKUJE                  ";"BRNO                       CZ   12 ";"1234 56** **** 7890        VISA    ";"04.03.2022                45,00 CZK";
+"03.03.2022";;"";"PLATEBNÍ KARTY VISA CZK";"-358,04";"";"";"";"1234567";"1234";"123456789";"123-45678901 2345678901234";"Nákup u obchodníka";"12345678 PLATEBNÍ KARTY";;"Netflix.com                        ";"123-4567890                US   12 ";"1234 56** **** 7890        VISA    ";"03.03.2022                15.49 USD";
+"02.03.2022";;"";"PLATEBNÍ KARTY VISA CZK";"-251,80";"";"";"";"1234567";"1234";"123456789";"123-45678901 2345678901234";"Nákup bezkontaktní kartou";"12345678 PLATEBNÍ KARTY";;"ALBERT VAM DEKUJE                  ";"BRNO                       CZ   12 ";"1234 56** **** 7890        VISA    ";"02.03.2022               251,80 CZK";
+"01.03.2022";;"";"PLATEBNÍ KARTY VISA CZK";"-461,20";"";"";"";"1234567";"1234";"123456789";"123-45678901 2345678901234";"Nákup u obchodníka";"12345678 PLATEBNÍ KARTY";;"ALBERT VAM DEKUJE                  ";"BRNO                       CZ   12 ";"1234 56** **** 7890        VISA    ";"01.03.2022               461,20 CZK";

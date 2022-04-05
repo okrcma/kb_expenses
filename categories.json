@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Albert",
+    "regex": "^ALBERT VAM DEKUJE\\s*$",
+    "category": "groceries"
+  },
+  {
+    "name": "Spotify",
+    "regex": "^PAYPAL \\*SPOTIFY\\s*$",
+    "category": "entertainment"
+  }
+]
